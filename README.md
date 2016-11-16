@@ -16,17 +16,15 @@ Delta-MOCK is described in detail in our paper:
 which was submitted to **IEEE Transactions on Evolutionary Computation** and is currently under
 review. The source code of Delta-MOCK, as well as all of the test data sets used during the 
 experimentation of this study, will be made available through our GitHub repository once this
-paper is published:
-
-	[https://github.com/garzafabre/Delta-MOCK](https://github.com/garzafabre/Delta-MOCK)
+paper is published: [https://github.com/garzafabre/Delta-MOCK](https://github.com/garzafabre/Delta-MOCK)
 
 ---
 
 Contact:
 
-	* Mario Garza-Fabre - mario.garza-fabre@manchester.ac.uk
-	* Julia Handl - julia.handl@manchester.ac.uk
-	* Joshua Knowles - j.knowles@cs.bham.ac.uk
+* Mario Garza-Fabre - mario.garza-fabre@manchester.ac.uk
+* Julia Handl - julia.handl@manchester.ac.uk
+* Joshua Knowles - j.knowles@cs.bham.ac.uk
 
 ---
 
