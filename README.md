@@ -10,8 +10,8 @@ to be processed in current clustering applications.
 
 Delta-MOCK is described in detail in our paper:
 
-	Mario Garza-Fabre, Julia Handl and Joshua Knowles. 
-	**An Improved and More Scalable Evolutionary Approach to Multiobjective Clustering**.
+> Mario Garza-Fabre, Julia Handl and Joshua Knowles. 
+**An Improved and More Scalable Evolutionary Approach to Multiobjective Clustering**.
 
 which was submitted to **IEEE Transactions on Evolutionary Computation** and is currently under
 review. The source code of Delta-MOCK, as well as all of the test data sets used during the 
