@@ -30,7 +30,7 @@ Contact:
 
 References:
 
-	1.	Julia Handl and Joshua Knowles. **An Evolutionary Approach to Multiobjective Clustering**, 
-		IEEE Transactions on Evolutionary Computation, vol. 11, no. 1, pp. 56–76, 2007.
+1.	Julia Handl and Joshua Knowles. **An Evolutionary Approach to Multiobjective Clustering**, 
+	IEEE Transactions on Evolutionary Computation, vol. 11, no. 1, pp. 56–76, 2007.
 
 
