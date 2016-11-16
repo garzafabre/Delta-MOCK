@@ -1,8 +1,8 @@
 # Delta-MOCK
 ## Delta-MOCK algorithm for Evolutionary Multiobjective Clustering
 
-**Delta-MOCK** is a new version of the *multiobjective clustering with automatic k-determination 
-(**MOCK**)* algorithm. MOCK is an evolutionary approach to multiobjective data clustering, originally 
+**Delta-MOCK** is a new version of the *multiobjective clustering with automatic k-determination* 
+(**MOCK**) algorithm. MOCK is an evolutionary approach to multiobjective data clustering, originally 
 proposed by Julia Handl and Joshua Knowles [1]. Our new algorithm Delta-MOCK presents extensive 
 changes and improves upon the effectiveness and computational efficiency of MOCK. This translates 
 into a better scalability which is essential given the unprecedented volumes of data that require 
