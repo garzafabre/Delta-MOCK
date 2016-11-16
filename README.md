@@ -16,7 +16,9 @@ Delta-MOCK is described in detail in our paper:
 which was submitted to **IEEE Transactions on Evolutionary Computation** and is currently under
 review. The source code of Delta-MOCK, as well as all of the test data sets used during the 
 experimentation of this study, will be made available through our GitHub repository once this
-paper is published: [https://github.com/garzafabre/Delta-MOCK](https://github.com/garzafabre/Delta-MOCK)
+paper is published: 
+
+> [https://github.com/garzafabre/Delta-MOCK](https://github.com/garzafabre/Delta-MOCK)
 
 ---
 
@@ -30,7 +32,7 @@ Contact:
 
 References:
 
-1.	Julia Handl and Joshua Knowles. **An Evolutionary Approach to Multiobjective Clustering**, 
-	IEEE Transactions on Evolutionary Computation, vol. 11, no. 1, pp. 56–76, 2007.
+1. Julia Handl and Joshua Knowles. **An Evolutionary Approach to Multiobjective Clustering**, 
+IEEE Transactions on Evolutionary Computation, vol. 11, no. 1, pp. 56–76, 2007.
 
 
