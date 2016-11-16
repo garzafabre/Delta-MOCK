@@ -24,9 +24,9 @@ paper is published:
 
 Contact:
 
-Mario Garza-Fabre - mario.garza-fabre@manchester.ac.uk
-Julia Handl - julia.handl@manchester.ac.uk
-Joshua Knowles - j.knowles@cs.bham.ac.uk
+	* Mario Garza-Fabre - mario.garza-fabre@manchester.ac.uk
+	* Julia Handl - julia.handl@manchester.ac.uk
+	* Joshua Knowles - j.knowles@cs.bham.ac.uk
 
 ---
 
