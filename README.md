@@ -10,18 +10,18 @@ to be processed in current clustering applications.
 Delta-MOCK is described in detail in our paper:
 
 	Mario Garza-Fabre, Julia Handl and Joshua Knowles. 
-	**An Improved and More Scalable Evolutionary Approach to Multiobjective Clustering**.
+	An Improved and More Scalable Evolutionary Approach to Multiobjective Clustering.
 	IEEE Transactions on Evolutionary Computation (accepted for publication).
 	
 **Contact:**
 
-Mario Garza-Fabre - garzafabre@gmail.com
-Julia Handl - julia.handl@manchester.ac.uk
-Joshua Knowles - j.knowles@cs.bham.ac.uk
+	Mario Garza-Fabre - garzafabre@gmail.com
+	Julia Handl - julia.handl@manchester.ac.uk
+	Joshua Knowles - j.knowles@cs.bham.ac.uk
 
 **References:**
 
-	1.	Julia Handl and Joshua Knowles. **An Evolutionary Approach to Multiobjective Clustering**, 
+	1.	Julia Handl and Joshua Knowles. An Evolutionary Approach to Multiobjective Clustering, 
 		IEEE Transactions on Evolutionary Computation, vol. 11, no. 1, pp. 56–76, 2007.
 
 ---
@@ -34,7 +34,7 @@ Joshua Knowles - j.knowles@cs.bham.ac.uk
 
 **Execution:**
 
-./delta_mock --file data_example/spiral_labels_headers.data --normalise false --algorithm nsga2 --population 100 --generations 100 --crossover 1.0 --mutation 1.0 --representation split --delta 80 --output myresults/testrun --seed 1
+./delta_mock --file data_example/spiral_labels_headers.data --normalise false --algorithm nsga2 --population 100 --generations 100 --crossover 1.0 --mutation 1.0 --representation split --delta 80 --kmax 50 --output myresults/testrun --seed 1
 
 ---
 
@@ -64,6 +64,8 @@ Joshua Knowles - j.knowles@cs.bham.ac.uk
 	split: reduced-length Delta-Binary representation (needs to set parameter –delta)
 
 --delta: parameter required by the Delta-Locus and Delta-Binary representations
+
+--kmax: maximum number of clusters to use during initialisation
 
 --output: here we can define a path and/or a prefix for the name of the output files. In this example, "--output myresults/testrun" will save all output files in directory "myresults" and the name of all files will start with "testrun". NOTE: the program does not create directories, it assumes the provided path already exists
 
